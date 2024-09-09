@@ -1,0 +1,9 @@
+requests
+wget
+xmltodict
+PyQt5
+playwright
+promise
+pywidevine
+flask
+flask-cors
